@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open https://clone-20b8d.firebaseapp.com/?_gl=1*799yyv*_ga*NjY5NjMzMTQ5LjE2OTg3Njg0MTQ.*_ga_CW55HF8NVT*MTY5OTI3MTQzNi4zLjEuMTY5OTI3MTQ1OS4zNy4wLjA. to view it in your browser.
+Open http://localhost:3000/ to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
